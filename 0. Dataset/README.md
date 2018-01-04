@@ -1,6 +1,6 @@
 # The Dataset
 
-The EEG data are available from [PhysioNet, "EEG Motor Movement/Imagery Dataset"](https://physionet.org/physiobank/database/eegmmidb/​On). 
+The EEG data are available from [PhysioNet, "EEG Motor Movement/Imagery Dataset"https://physionet.org/physiobank/database/eegmmidb/On). 
 
 ## Specific for the dataset
 
