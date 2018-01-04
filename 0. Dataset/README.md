@@ -32,5 +32,5 @@ The data is provided in [EDF file (European Data format)](www.edfplus.info/). Th
 
 ## Tasks in this part
 
-- [] A
-- [] B
+-[] A
+-[] B
