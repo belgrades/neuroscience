@@ -1,15 +1,13 @@
-<title>
-	**Project 3**: Neuroscience application
-</title> 
+# **Project 3**: Neuroscience application
 
 Brain Oscillatory and Network Activity suring resting states
 
-# Dataset
+## Dataset
 
-# Spectral Analysis
+## Spectral Analysis
 
-# Graph theory indices
+## Graph theory indices
 
-# Motif analysis
+## Motif analysis
 
-# Community detection
+## Community detection
