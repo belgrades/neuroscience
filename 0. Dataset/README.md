@@ -29,3 +29,9 @@ The data is provided in [EDF file (European Data format)](www.edfplus.info/). Th
 - In **python**: Package [pyedflib](https://github.com/holgern/pyedflib/blob/master/demo/readEDFFile.py)
 - In **matlab**: Method [edfread](https://it.mathworks.com/matlabcentral/fileexchange/31900-edfread)
 - In **R**: Package [edfReader](https://cran.r-project.org/web/packages/edfReader/)
+
+### Installing pyedflib
+
+In administrator mode run command
+
+    `conda install -c conda-forge pyedflib`
