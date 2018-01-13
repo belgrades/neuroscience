@@ -1,0 +1,95 @@
+
+   Summary motif results
+   =====================
+mfinder Version 1.20
+
+MOTIF FINDER RESULTS:
+
+	Network name: input/directed_open.txt
+	Network type: Directed
+	Num of Nodes: 64 Num of Edges: 807
+	Num of Nodes with edges: 64
+	Maximal out degree (out-hub) : 21
+	Maximal in degree (in-hub) : 62
+	Roots num: 19 Leaves num: 1
+	Single Edges num: 665 Mutual Edges num: 71
+
+	Motif size searched  3
+	Total number of 3-node subgraphs : 13806
+	Number of random networks generated : 100
+	Random networks generation method: Switches
+	Num of Switches range: 100.0-200.0, Success switches Ratio:0.143+-0.00
+
+The following motifs were found:
+
+Criteria taken : Nreal Zscore > 2.00
+                 Pval ignored (due to small number of random networks)
+                 Mfactor > 1.10
+                 Uniqueness >= 4
+
+
+
+	Full list includes 3 motifs
+MOTIF	NREAL	NRAND		NREAL	NREAL	UNIQ	CREAL
+ID		STATS		ZSCORE	PVAL	VAL	[MILI]	
+
+46	231	196.8+-8.0	4.28	0.000	9	16.73
+
+0 1 1 
+1 0 1 
+0 0 0 
+
+108	751	643.7+-13.9	7.73	0.000	10	54.40
+
+0 0 1 
+1 0 1 
+1 0 0 
+
+238	50	22.9+-3.3	8.20	0.000	5	3.62
+
+0 1 1 
+1 0 1 
+1 1 0 
+
+
+
+
+Full list of subgraphs size 3 ids:
+
+	( Total num of different subgraphs size 3 is : 13 )
+
+MOTIF	NREAL	NRAND		NREAL	NREAL	CREAL	UNIQ
+ID		STATS		ZSCORE	PVAL	[MILI]	
+6	830	1152.8+-26.3	-12.27	1.000	60.12	13
+
+12	1007	1159.6+-24.2	-6.30	1.000	72.94	13
+
+14	174	230.7+-14.6	-3.88	1.000	12.60	9
+
+36	6700	6949.7+-29.0	-8.60	1.000	485.30	18
+
+38	2380	2164.6+-26.0	8.29	0.000	172.39	15
+
+46	231	196.8+-8.0	4.28	0.000	16.73	9
+
+74	1357	1559.8+-23.6	-8.59	1.000	98.29	11
+
+78	51	146.3+-9.3	-10.30	1.000	3.69	6
+
+98	10	22.3+-5.5	-2.23	1.000	0.72	4
+
+102	95	121.0+-10.8	-2.41	0.990	6.88	6
+
+108	751	643.7+-13.9	7.73	0.000	54.40	10
+
+110	170	155.8+-8.2	1.74	0.060	12.31	6
+
+238	50	22.9+-3.3	8.20	0.000	3.62	5
+
+
+
+ (Application total runtime was:   16.0 seconds.)
+
+ (Real network processing runtime was:    0.0 seconds.)
+
+ (Single Random network processing runtime was:    0.2 seconds.)

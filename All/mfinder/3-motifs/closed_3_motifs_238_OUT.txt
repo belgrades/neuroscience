@@ -1,0 +1,107 @@
+
+   Summary motif results
+   =====================
+mfinder Version 1.20
+
+MOTIF FINDER RESULTS:
+
+	Network name: input/directed_closed.txt
+	Network type: Directed
+	Num of Nodes: 64 Num of Edges: 807
+	Num of Nodes with edges: 64
+	Maximal out degree (out-hub) : 21
+	Maximal in degree (in-hub) : 56
+	Roots num: 18 Leaves num: 0
+	Single Edges num: 627 Mutual Edges num: 90
+
+	Motif size searched  3
+	Total number of 3-node subgraphs : 12707
+	Number of random networks generated : 100
+	Random networks generation method: Switches
+	Num of Switches range: 100.0-200.0, Success switches Ratio:0.194+-0.00
+
+The following motifs were found:
+
+Criteria taken : Nreal Zscore > 2.00
+                 Pval ignored (due to small number of random networks)
+                 Mfactor > 1.10
+                 Uniqueness >= 4
+
+
+
+	Full list includes 5 motifs
+MOTIF	NREAL	NRAND		NREAL	NREAL	UNIQ	CREAL
+ID		STATS		ZSCORE	PVAL	VAL	[MILI]	
+
+38	1766	1566.7+-33.4	5.97	0.000	16	138.98
+
+0 1 1 
+0 0 1 
+0 0 0 
+
+46	232	156.2+-10.0	7.62	0.000	9	18.26
+
+0 1 1 
+1 0 1 
+0 0 0 
+
+108	794	621.2+-19.3	8.96	0.000	14	62.49
+
+0 0 1 
+1 0 1 
+1 0 0 
+
+110	245	220.9+-10.1	2.39	0.000	10	19.28
+
+0 1 1 
+1 0 1 
+1 0 0 
+
+238	44	30.0+-3.5	3.96	0.000	5	3.46
+
+0 1 1 
+1 0 1 
+1 1 0 
+
+
+
+
+Full list of subgraphs size 3 ids:
+
+	( Total num of different subgraphs size 3 is : 13 )
+
+MOTIF	NREAL	NRAND		NREAL	NREAL	CREAL	UNIQ
+ID		STATS		ZSCORE	PVAL	[MILI]	
+6	744	1116.1+-32.3	-11.52	1.000	58.55	15
+
+12	1673	1787.3+-28.2	-4.05	1.000	131.66	14
+
+14	292	410.5+-20.2	-5.88	1.000	22.98	9
+
+36	5019	5294.1+-36.8	-7.48	1.000	394.98	19
+
+38	1766	1566.7+-33.4	5.97	0.000	138.98	16
+
+46	232	156.2+-10.0	7.62	0.000	18.26	9
+
+74	1544	1856.5+-34.5	-9.06	1.000	121.51	13
+
+78	122	188.2+-10.1	-6.56	1.000	9.60	5
+
+98	59	68.3+-8.7	-1.07	0.860	4.64	7
+
+102	173	230.2+-15.3	-3.75	1.000	13.61	8
+
+108	794	621.2+-19.3	8.96	0.000	62.49	14
+
+110	245	220.9+-10.1	2.39	0.000	19.28	10
+
+238	44	30.0+-3.5	3.96	0.000	3.46	5
+
+
+
+ (Application total runtime was:   19.0 seconds.)
+
+ (Real network processing runtime was:    0.0 seconds.)
+
+ (Single Random network processing runtime was:    0.2 seconds.)
